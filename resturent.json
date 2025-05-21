@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Pizza Palace",
+    "description": "Delicious pizzas with fresh ingredients.",
+    "image": "images/pizza_palace.jpg"
+  },
+  {
+    "name": "Sushi World",
+    "description": "Authentic sushi and Japanese cuisine.",
+    "image": "images/sushi_world.jpg"
+  }
+]

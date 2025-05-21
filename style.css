@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #ff2b85;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+#search {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  width: 80%;
+}
+
+#restaurant-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.restaurant-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 1rem;
+  padding: 1rem;
+  width: 300px;
+  text-align: center;
+}
+
+.restaurant-card img {
+  max-width: 100%;
+  border-radius: 8px;
+}
